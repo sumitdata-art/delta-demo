@@ -1,4 +1,6 @@
 # delta-demo
 This is a Demo for Git &amp; Github class.
-#teacher
-shsh
+#Teacher
+Shradha Khapra
+ #Student
+ delta student
